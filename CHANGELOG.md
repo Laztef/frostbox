@@ -5,3 +5,6 @@
 ## 0.0.2
 
 * Modify class names
+## 0.0.3
+
+* Modify example structure

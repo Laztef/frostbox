@@ -1,6 +1,6 @@
 name: frostbox
 description: "This is a simple widget to get a frosted container."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/Laztef/frostbox
 
 environment:
