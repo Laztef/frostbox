@@ -8,11 +8,11 @@ Only child param is required.
 
 📱 mobile preview
 
-(assets/mobile.png)
+(![mobile](https://raw.githubusercontent.com/Laztef/frostbox/refs/heads/main/assets/mobile.png))
 
 🖥️ desktop preview
 
-(assets/desktop.png)
+(![desktop](https://raw.githubusercontent.com/Laztef/frostbox/refs/heads/main/assets/desktop.png))
 
 ## Using
 

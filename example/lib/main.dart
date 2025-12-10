@@ -27,7 +27,7 @@ class LoginPage extends StatelessWidget {
             height: MediaQuery.of(context).size.height * .5,
             width: MediaQuery.of(context).size.width * .7,
             ////////////////////////////////////////////
-            // The GlassContainer get the parent size //
+            // The FrostBox get the parent size //
             ////////////////////////////////////////////
             child: FrostBox(
               child: Padding(

@@ -8,3 +8,6 @@
 ## 0.0.3
 
 * Modify example structure
+## 0.0.4
+
+* Modify structure
