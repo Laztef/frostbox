@@ -1,6 +1,6 @@
-# Glass container
+# FrostBox
 
-This is a simple widget to get a glass container, it is responsive and uses the size of the parent widget.
+This is a simple widget to get a frost container, it is responsive and uses the size of the parent widget.
 
 Only child param is required.
 
@@ -8,15 +8,15 @@ Only child param is required.
 
 📱 mobile preview
 
-![Mobile Preview](assets/mobile.png)
+(assets/mobile.png)
 
 🖥️ desktop preview
 
-![Desktop Preview](assets/desktop.png)
+(assets/desktop.png)
 
 ## Using
 
-Only call to GlassContainer(child: child). Remember: child is required.
+Only call to FrostBox(child: child). Remember: child is required.
 
 Thanks for checking out this project!. Regards.
 ## About me
